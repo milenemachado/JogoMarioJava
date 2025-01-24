@@ -39,22 +39,7 @@ git clone https://github.com/milenemachado/.git
 ```
 ## Execução
 
-No VS Code, dentro da pasta do repositório, execute os seguintes comandos no terminal:
-
-```bash
-javac .java 
-```
-E
-
-```bash
-java Java
-```
-OU
-
-```bash
-javac .java  &&  java Java
-```
-
+No VS Code, dentro da pasta do repositório,
 
 ## Autor(a):
 

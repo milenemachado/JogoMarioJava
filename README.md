@@ -1,2 +1,2 @@
 # JogoMarioJava
-Jogo simples do Mario, criado por html, css e javascript. 
+Jogo do Mario, desenvolvido em html, css e javascript com finalidade educacional proposta na matéria do Front-End. 

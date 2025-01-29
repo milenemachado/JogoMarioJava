@@ -2,6 +2,8 @@
 Este projeto é um jogo feito em html para fins de aprendizado proposto pelo professor João Ferreira do Curso de Desenvolvimento Full Stack da Treina Recife.
 
 ## Construido com
+- HTML
+- CSS
 
 ## Autor(a):
 
